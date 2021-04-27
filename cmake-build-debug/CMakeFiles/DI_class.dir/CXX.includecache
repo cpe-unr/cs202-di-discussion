@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Samsung_T5/teaching/unr/classes/cs202/sample code/DI-class/Buffer.h
+
+/Volumes/Samsung_T5/teaching/unr/classes/cs202/sample code/DI-class/FileManager.cpp
+FileManager.h
+/Volumes/Samsung_T5/teaching/unr/classes/cs202/sample code/DI-class/FileManager.h
+Buffer.h
+/Volumes/Samsung_T5/teaching/unr/classes/cs202/sample code/DI-class/Buffer.h
+
+/Volumes/Samsung_T5/teaching/unr/classes/cs202/sample code/DI-class/FileManager.h
+string
+-
+Buffer.h
+/Volumes/Samsung_T5/teaching/unr/classes/cs202/sample code/DI-class/Buffer.h
+
